@@ -4,7 +4,6 @@ We are currrently using a free developer TMDB API for making a get request for s
 
 For any problem or complaint, please feel free to reach out to Alvin via any of this means:
 
-Twitter: <a href="https://twitter.com/Veri5ied">Veri5ied</a> <br>
-LinkedIn: <a href="https://linkedin.com/in/alvinuchenna">Veri5ied</a>
+Twitter: <a href="https://twitter.com/Localhost_5000">@Localhost_5000</a> <br>
 
 Happy Hacking!!!!
